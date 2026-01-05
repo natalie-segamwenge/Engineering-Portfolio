@@ -10,7 +10,7 @@ interpretation rather than polished final designs.
 
 ## Projects
 
-- **OpenRocket Trade Study**
+- **- [OpenRocket Trade Study](openrocket-trade-study)**
   Parametric study investigating how fin geometry and mass distribution
   affect stability margin and apogee in a small sounding rocket.
   (Exploratory, January 2026)
